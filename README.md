@@ -23,6 +23,14 @@
 npm install  
 npm run dev  
 
+## 📸 Screenshots
+
+### 💻 Desktop View
+![Desktop](./screenshots/desktop.png)
+
+### 📱 Mobile View
+![Mobile](./screenshots/mobile.png)
+
 ## 👨‍💻 Author
 Sudhir Kumar Jha  
 LinkedIn: https://linkedin.com/in/sudhir-jha270992
