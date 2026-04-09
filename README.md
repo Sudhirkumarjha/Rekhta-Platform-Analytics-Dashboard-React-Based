@@ -28,6 +28,9 @@ npm run dev
 ### 💻 Desktop View
 ![Desktop](./screenshots/desktop.png)
 
+### 📱 Tablet View
+![Tablet](./screenshots/tablet.png)
+
 ### 📱 Mobile View
 ![Mobile](./screenshots/mobile.png)
 
