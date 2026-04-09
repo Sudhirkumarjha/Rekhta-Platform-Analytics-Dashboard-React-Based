@@ -26,13 +26,13 @@ npm run dev
 ## 📸 Screenshots
 
 ### 💻 Desktop View
-![Desktop](./screenshots/desktop.png)
+![Desktop](./screenshots/dashboard-desktop.png)
 
 ### 📱 Tablet View
-![Tablet](./screenshots/tablet.png)
+![Tablet](./screenshots/dashboard-tablet.png)
 
 ### 📱 Mobile View
-![Mobile](./screenshots/mobile.png)
+![Mobile](./screenshots/dashboard-mobile.png)
 
 ## 👨‍💻 Author
 Sudhir Kumar Jha  
