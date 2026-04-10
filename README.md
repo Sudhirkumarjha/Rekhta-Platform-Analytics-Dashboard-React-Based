@@ -1,5 +1,19 @@
 # Rekhta Platform Analytics Dashboard
 
+A responsive React-based analytics dashboard that visualizes data using charts, filtering, search, and pagination. Built to demonstrate frontend development and data visualization skills.
+
+## ⭐ Key Highlights
+- Responsive UI (Desktop, Tablet, Mobile)
+- Interactive charts using Recharts
+- Dynamic filtering and search functionality
+- Client-side pagination
+- Clean and reusable component-based architecture
+
+  
+## 🚀 Live Demo  
+🔗 [View Live Project](https://rekhta-platform-analytics-dashboard.vercel.app)
+
+
 ## 🚀 Features
 - API Integration (Mock Data)
 - Search by Month
@@ -20,8 +34,10 @@
 - Data visualization
 
 ## ▶️ Run Project
-npm install  
-npm run dev  
+```bash
+npm install
+npm run dev
+
 
 ## 📸 Screenshots
 
