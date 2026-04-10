@@ -35,7 +35,7 @@ npm run dev
 ![Mobile](./screenshots/dashboard-mobile.png)
 
 ### 📱 Analytics-Page View
-(./screenshots/Analytics-page.png)
+![Desktop](./screenshots/Analytics-page.png)
 
 ## 👨‍💻 Author
 Sudhir Kumar Jha  
