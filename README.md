@@ -37,6 +37,9 @@ npm run dev
 ### 📱 Analytics-Page View
 ![Desktop](./screenshots/Analytics-page.PNG)
 
+### 📱 Users-Page View
+![Desktop](./screenshots/Users-page.PNG)
+
 ## 👨‍💻 Author
 Sudhir Kumar Jha  
 LinkedIn: https://linkedin.com/in/sudhir-jha270992
