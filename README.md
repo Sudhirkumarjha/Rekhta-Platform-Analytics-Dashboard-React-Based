@@ -37,6 +37,9 @@ npm run dev
 ### 📱 Analytics-Page View
 ![Desktop](./screenshots/Analytics-page.PNG)
 
+### 📱 Reports-Page View
+![Desktop](./screenshots/Reports-page.PNG)
+
 ### 📱 Users-Page View
 ![Desktop](./screenshots/Users-page.PNG)
 
